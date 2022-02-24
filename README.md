@@ -1,6 +1,14 @@
 # Demo course template
 ## About this course
-This course...
+In this course the Internet of Things (IoT) paradigm and related technologies,
+applied to the agribusiness vertical is presented, starting with the production
+processes, up to modern LPWAN networks or battery technology. A hands-on
+approach and project-based learning will be employed to introduce the different
+technologies necessary for the deployment of sensor networks, asset
+geolocation, traceability within the agribusiness sector, or food logistics among
+others, utilizing the Internet.
+Students taking this course are expected to have prior knowledge of Python or
+any other high-level programming language. 
 
 ## Main topics
 * This
