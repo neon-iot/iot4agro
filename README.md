@@ -1,4 +1,4 @@
-# Demo course template
+# IoT for Agribusiness
 ## About this course
 In this course the Internet of Things (IoT) paradigm and related technologies,
 applied to the agribusiness vertical is presented, starting with the production
