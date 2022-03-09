@@ -11,17 +11,30 @@ Students taking this course are expected to have prior knowledge of Python or
 any other high-level programming language. 
 
 ## Main topics
-* This
-* That
+* Introduction, the agribusiness sector.
+* El paradigma de IoT.
+* LPWAN networks.
+* RFID technology.
+* Cloud services.
+* Low consumption electronics.
 
 ## What you will learn
-* This
-* That
-* ...
+* An overview of the technologies that allow us to carry the IoT paradigm
+specifically to the agribusiness sector.
+* Ability to analyze, specify, or design different types of networks
+LPWAN applied to the agro-industrial sector, from the sensor nodes
+to the platforms (middleware) in the Cloud for managing the
+information.
+* Ability to analyze, specify, or design solutions based on
+RFID technology and others, for traceability, data recording, and
+tracking items within the agribusiness production chains.
+* Capacity and practical use of tools to design, implement,
+and measure in the laboratory, very low consumption sensors connected to the Internet.
 
 ## What you will need:
-* (Replace with list of required skills / knowledge)
-* (Specify also if any hardware / lab is required)
+* Previous knowledge of embedded systems.
+* IoT Laboratory.
+* Hardware (LoRaWAN Gateway, LoRaWAN nodes, NB-IoT Kits, GPS kits, UHF RFID kits). 
 
 
 ***
