@@ -34,7 +34,7 @@ and measure in the laboratory, very low consumption sensors connected to the Int
 ## What you will need:
 * Previous knowledge of embedded systems.
 * IoT Laboratory.
-* Hardware (LoRaWAN Gateway, LoRaWAN nodes, NB-IoT Kits, GPS kits, UHF RFID kits). 
+* Hardware (LoRaWAN Gateway, LoRaWAN nodes, NB-IoT kits, GPS kits, UHF RFID kits). 
 
 
 ***
