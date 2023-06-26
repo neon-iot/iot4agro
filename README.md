@@ -12,7 +12,7 @@ any other high-level programming language.
 
 ## Main topics
 * Introduction, the agribusiness sector.
-* El paradigma de IoT.
+* IoT paradigm.
 * LPWAN networks.
 * RFID technology.
 * Cloud services.
