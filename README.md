@@ -36,6 +36,7 @@ and measure in the laboratory, very low consumption sensors connected to the Int
 * IoT Laboratory.
 * Hardware (LoRaWAN Gateway, LoRaWAN nodes, NB-IoT kits, GPS kits, UHF RFID kits). 
 
+![AckNEON](https://github.com/neon-iot/iot4agro/assets/89226880/c3aff18f-4695-4862-a114-8756fd7acf85)
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
