@@ -1,5 +1,0 @@
-fo = open("/flash/sys/lpwan.mac", "wb")
-eui = [0x70, 0xB3, 0xD5, 0x49, 0x99, 0xA4, 0xAE, 0x18]
-mac_write=bytes(eui)
-fo.write(mac_write)
-fo.close()
